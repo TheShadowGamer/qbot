@@ -1,6 +1,5 @@
 const roblox = require('noblox.js');
 const Discord = require('discord.js');
-const path = require('path');
 require('dotenv').config();
 
 const config = {
